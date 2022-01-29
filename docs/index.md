@@ -9,12 +9,18 @@
 
 -   Free software: MIT license
 -   Documentation: <https://yogeshtodarwal.github.io/ydr>
-    
+
 
 ## Features
 
--   TODO
+- TODO
+    - reading data and its format
+    - Indicators
+      - MA, EMA, MACD, RSI, and Super trend
+    - Build strategy using indicators
+    - Back testing
+    - Live trades in Zerodha kite
 
 ## Credits
 
-This package was created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [giswqs/pypackage](https://github.com/giswqs/pypackage) project template.
+This package was created with the help of [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
