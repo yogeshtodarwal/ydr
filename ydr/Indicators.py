@@ -7,4 +7,5 @@ def MA(series, period=5):
     window_average = sum(this_window) / period
     moving_averages.append(window_average)
     i += 1
+    return moving_averages
 
